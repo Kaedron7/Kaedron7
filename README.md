@@ -1,68 +1,74 @@
-# 👋 Hey, I'm Hryhorii Khalabuda
+<h1 align="center">Hey there, I'm Hryhorii 👋</h1>
 
-🚀 **Senior Backend Engineer** | 🧠 **AI-Focused Developer**  
-🇺🇦 Based in Ukraine | 🌍 Working Globally | ☕ Fueled by Java & Python
+<p align="center">
+  🚀 Senior Backend Engineer | 🤖 AI-Focused Developer | 🇺🇦 Based in Ukraine  
+</p>
 
----
-
-### 🧩 About Me
-
-- 💻 7+ years of experience building scalable, production-ready systems  
-- 🔬 Specializing in **Java, Spring Boot, Python, Django**  
-- ☁️ Cloud-ready apps with **Docker**, **AWS**, and **PostgreSQL**  
-- 🤖 Integrating **AI/ML models** into real-world applications  
-- 🎓 B.Sc. in Computer Science, Ukrainian Catholic University (2020)  
-- 🛠️ Ex–SoftServe | Ex–Intellias | Freelance @ ELEKS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Lover%20%F0%9F%92%97;Spring%20Boot%20Wizard%20%F0%9F%A7%9A;Python%20%2B%20AI%20Engineer%20%F0%9F%A7%96;Building%20scalable%20systems%20since%202016&font=Fira%20Code&center=true&width=600&height=45&duration=4000&pause=1000" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech I Work With
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Hryhorii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hryhorii&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hryhorii&layout=compact&theme=tokyonight)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🔥 GitHub Activity
+### 🏆 GitHub Trophies
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hryhorii&theme=github-compact&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🧠 Featured Projects
-
-- 🎓 [Radoznali Vrabac](https://github.com/hryhorii/radoznali-vrabac) — Educational platform built with React, Node.js & MongoDB  
-- 📊 [AI-Powered Data Insights] — Machine learning for business intelligence *(Coming soon...)*  
-- 🌐 [Trading Platform Backend] — Secure trading logic & REST APIs in Spring Boot
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hryhorii&theme=tokyonight&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-### 🎯 Fun Facts
+### 📊 GitHub Stats
 
-- 🤓 Currently learning: PostgreSQL internals & fine-tuning LLMs  
-- 🎮 Gamer at heart — ask me about classic RTS titles  
-- ✈️ Dreaming of building a startup that combines AI + education  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hryhorii&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hryhorii&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 
-### 📬 Connect With Me
+### 🐍 Watch the Snake Eat Your Contributions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hryhorii-khalabuda)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hryhorii/hryhorii/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+> 📝 Enable this via GitHub Actions — I’ll help you set it up if you want!
+
+---
+
+### ✨ Fun Facts
+
+- 🎓 CS Graduate @ Ukrainian Catholic University  
+- 🧠 Built AI + data tools that actually made companies money  
+- 🔧 Backend nerd who secretly loves clean UI  
+- ✈️ Hopes to visit Japan someday & code from a ryokan 🏯
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hryhorii-khalabuda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hryhorii@example.com)
 
 ---
 
-> ⚡ "Code is poetry. Make yours worth reading."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hryhorii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+> ⚡ _“Great code is like magic. You just don’t see the chaos behind it.”_
 
