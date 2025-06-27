@@ -1,74 +1,57 @@
-<h1 align="center">Hey there, I'm Hryhorii 👋</h1>
+<img src="https://raw.githubusercontent.com/kaedron/kaedron/main/assets/banner.png" alt="Kaedron - Legend Engineer" width="100%" />
 
-<p align="center">
-  🚀 Senior Backend Engineer | 🤖 AI-Focused Developer | 🇺🇦 Based in Ukraine  
-</p>
+# 👋 Hi, I'm Kaedron
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Lover%20%F0%9F%92%97;Spring%20Boot%20Wizard%20%F0%9F%A7%9A;Python%20%2B%20AI%20Engineer%20%F0%9F%A7%96;Building%20scalable%20systems%20since%202016&font=Fira%20Code&center=true&width=600&height=45&duration=4000&pause=1000" />
-</p>
+I’m a **Legend Engineer** — building clean code, smart APIs, and scalable systems across web, mobile, cloud, and AI platforms.  
+From Shopify storefronts to deep learning workflows, I architect elegant solutions for complex problems.
 
 ---
 
-### 🛠️ Tech I Work With
+## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 💻 Languages
+Python · Java · Go · C# · PHP · Ruby · Kotlin · Swift · TypeScript · JavaScript · SQL · HTML · CSS
 
----
+### 🖥️ Backend
+Node.js · Express · Django · FastAPI · Spring Boot · NestJS · Laravel · Ruby on Rails · GraphQL · REST · Webhooks
 
-### 🏆 GitHub Trophies
+### 🌐 Frontend
+React · Next.js · Vue.js · Angular · Tailwind CSS · SCSS · Zustand · Redux Toolkit · Pinia · Axios · TanStack Query · Apollo
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hryhorii&theme=tokyonight&no-bg=true&margin-w=10" />
-</p>
+### 📱 Mobile
+React Native · Flutter · Swift (iOS) · Kotlin (Android)
 
----
+### 🛍️ eCommerce & CMS
+Shopify · WordPress · Webflow · WooCommerce · Magento
 
-### 📊 GitHub Stats
+### 🧠 AI & Data
+Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · LangChain · LlamaIndex · MongoDB · PostgreSQL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hryhorii&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hryhorii&layout=compact&theme=tokyonight" height="170" />
-</p>
+### ⚙️ DevOps & Cloud
+Docker · Kubernetes · GitHub Actions · GitLab CI · Jenkins · AWS · GCP · Azure · Terraform · Vercel · Netlify
 
 ---
 
-### 🐍 Watch the Snake Eat Your Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hryhorii/hryhorii/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-> 📝 Enable this via GitHub Actions — I’ll help you set it up if you want!
+## 🚀 Projects
+- 🔥 [AI PDF Auto-Filler](https://github.com/kaedron/ai-form-filler) – FastAPI + React + LLMs to automate forms
+- 🛒 [Custom Shopify Storefront](https://github.com/kaedron/shopify-hydrogen-store) – Built with Hydrogen, Tailwind, GraphQL
+- 📊 [Wellness Analytics MVP](https://github.com/kaedron/health-analytics) – Next.js + MongoDB + Whoop API
 
 ---
 
-### ✨ Fun Facts
+## 📈 GitHub Stats
 
-- 🎓 CS Graduate @ Ukrainian Catholic University  
-- 🧠 Built AI + data tools that actually made companies money  
-- 🔧 Backend nerd who secretly loves clean UI  
-- ✈️ Hopes to visit Japan someday & code from a ryokan 🏯
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hryhorii-khalabuda)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hryhorii@example.com)
+![Kaedron's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaedron&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaedron&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=kaedron&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hryhorii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/kaedron)  
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&logoColor=white&style=flat-square)](https://www.upwork.com/freelancers/~kaedron)
+
+![Profile views](https://komarev.com/ghpvc/?username=kaedron&color=blue)
 
 ---
-
-> ⚡ _“Great code is like magic. You just don’t see the chaos behind it.”_
-
