@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kaedron/kaedron/main/assets/banner.png" alt="Kaedron - Legend Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/kaedron7/kaedron7/main/assets/banner.png" alt="Kaedron - Legend Engineer" width="100%" />
 
 # 👋 Hi, I'm Kaedron
 
